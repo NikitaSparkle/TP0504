@@ -1,0 +1,35 @@
+
+.invisibiliti{
+    color: transparent;
+      -webkit-text-stroke: 1px blue;
+      text-shadow: -5px -2px blue, -4px -1px #fff;
+  }
+  .invisibiliti2{
+    color: rgb(205, 15, 196);
+    -webkit-text-stroke: .07em rgba(36, 61, 106, 0.524);
+    text-shadow: .07em 0 rgb(21, 89, 145);
+  }
+  
+  .teni {
+    font-size:25px;
+    color:#ffffff!important;
+    text-shadow: 1px 1px 1px #000;
+    width: 1800px; 
+    height: 4200px; 
+    background-image: url(https://img.freepik.com/free-photo/solid-concrete-wall-textured-backdrop_53876-129493.jpg?w=1800&t=st=1680687256~exp=1680687856~hmac=a2920bc94fb2f26027a01ed30a370f6e95412013e1f0f0d23f1bda9154d5b100);
+    }
+   .obvod {
+    width: 1800px; 
+    height: 4200px; 
+    border: 2px solid grey;
+  }
+  .about-textsF {
+    position: absolute;
+    z-index: 10;
+    font-size: 1.6em;
+    top: 250px;
+    left: 2%;
+  }
+  a{
+    padding-left: 40px;
+  }
